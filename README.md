@@ -22,5 +22,5 @@ To run the project, ensure you set the base URL in your `local.properties` file:
 baseUrl=https\://your_base_api/
 ```
 
-
-![okDemo](https://github.com/user-attachments/assets/aaa3af9f-9a4f-4614-91ca-44eb04f018f6)
+### GIF Demo
+<img src="https://github.com/user-attachments/assets/aaa3af9f-9a4f-4614-91ca-44eb04f018f6" alt="Demo" width="300"/>
