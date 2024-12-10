@@ -14,4 +14,13 @@ This Android project is built using the following technologies and libraries:
 - **Hilt** - Dependency injection library for managing app-wide dependencies.
 - **Paging Compose** - Simplifies integrating paging with Jetpack Compose.
 
+## Configuration
+
+To run the project, ensure you set the base URL in your `local.properties` file:
+
+```properties
+baseUrl=https\://your_base_api/
+```
+
+
 ![okDemo](https://github.com/user-attachments/assets/aaa3af9f-9a4f-4614-91ca-44eb04f018f6)
